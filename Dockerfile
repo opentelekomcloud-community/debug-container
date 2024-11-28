@@ -12,7 +12,7 @@ ENV CERT_PKG="ca-certificates openssl"
 ENV GENERIC_PKG="bash bash-completion tmux tree"
 ENV NETWORK_PKG="nmap tcpdump iperf3 tcptraceroute iputils bind-tools curl wget inetutils-telnet netcat-openbsd"
 ENV CODE_PKG="vim git jq make"
-ENV DEBUG_PKG="htop stress-ng strace iftop iotop sysstat"
+ENV DEBUG_PKG="htop stress-ng strace iftop iotop sysstat audit"
 
 ENV KUBECTL_V="v1.28.12"
 
